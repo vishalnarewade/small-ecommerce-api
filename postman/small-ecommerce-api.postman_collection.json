@@ -173,7 +173,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"email\": \"user@example.com\",\n  \"password\": \"password123\",\n  \"status\": \"admin\"\n}"
+              "raw": "{\n  \"email\": \"user@example.com\",\n  \"password\": \"password123\",\n  \"status\": \"active\"\n}"
             },
             "url": {
               "raw": "{{baseUrl}}/api/users",

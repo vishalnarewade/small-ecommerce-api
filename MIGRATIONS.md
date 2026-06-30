@@ -21,7 +21,7 @@ Default seeded credentials:
 
 - Email: `admin@example.com`
 - Password: `password123`
-- Status: `admin`
+- Status: `active`
 
 You can override them with env vars before running migrations:
 

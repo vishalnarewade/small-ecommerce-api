@@ -38,7 +38,7 @@ Optional seed overrides:
 ```env
 SEED_USER_EMAIL=admin@example.com
 SEED_USER_PASSWORD=password123
-SEED_USER_STATUS=admin
+SEED_USER_STATUS=active
 ```
 
 ## Run
@@ -84,7 +84,7 @@ Default seeded login:
 
 - Email: `admin@example.com`
 - Password: `password123`
-- Status: `admin`
+- Status: `active`
 
 ## API Overview
 
